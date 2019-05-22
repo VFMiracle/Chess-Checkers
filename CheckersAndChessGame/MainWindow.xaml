@@ -1,0 +1,18 @@
+﻿<Window x:Class="CheckersAndChessGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckersAndChessGame"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="700" Width="1192">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button x:Name="startCheckersButton" Content="Start Checker Game" HorizontalAlignment="Left" Margin="456,101,0,0" VerticalAlignment="Top" Width="275" Height="90" FontSize="24"/>
+        <Button x:Name="startChessButton" Content="Start Chess Game" HorizontalAlignment="Left" Margin="456,291,0,0" VerticalAlignment="Top" Width="275" Height="90" FontSize="24"/>
+        <Button x:Name="quitButton" Content="Quit Game" HorizontalAlignment="Left" Margin="456,481,0,0" VerticalAlignment="Top" Width="275" Height="90" FontSize="24"/>
+
+    </Grid>
+</Window>

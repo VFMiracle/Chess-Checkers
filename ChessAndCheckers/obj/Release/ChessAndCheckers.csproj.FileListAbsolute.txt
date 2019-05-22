@@ -1,0 +1,7 @@
+C:\Users\Casa\source\repos\CheckersAndChessGame\ChessAndCheckers\bin\Release\ChessAndCheckers.dll
+C:\Users\Casa\source\repos\CheckersAndChessGame\ChessAndCheckers\bin\Release\ChessAndCheckers.pdb
+C:\Users\Casa\source\repos\CheckersAndChessGame\ChessAndCheckers\obj\Release\ChessAndCheckers.csproj.CoreCompileInputs.cache
+C:\Users\Casa\source\repos\CheckersAndChessGame\ChessAndCheckers\obj\Release\ChessAndCheckers.dll
+C:\Users\Casa\source\repos\CheckersAndChessGame\ChessAndCheckers\obj\Release\ChessAndCheckers.pdb
+C:\Users\Casa\source\repos\CheckersAndChessGame\ChessAndCheckers\obj\Release\ChessAndCheckers.Resource1.resources
+C:\Users\Casa\source\repos\CheckersAndChessGame\ChessAndCheckers\obj\Release\ChessAndCheckers.csproj.GenerateResource.cache
